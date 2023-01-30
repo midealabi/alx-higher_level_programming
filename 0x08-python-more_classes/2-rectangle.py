@@ -5,6 +5,10 @@ Write a class Rectangle that defines a rectangle by: (based on 1-rectangle.py)
 
 
 class Rectangle:
+    """
+    A class Rectanle that defines a rectangle
+     """
+
     def __init__(self, width=0, height=0):
         self.width = width
         self.height = height
